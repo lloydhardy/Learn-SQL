@@ -1,2 +1,23 @@
 # Learn-SQL
 Language Reference for MySQL/MariaDB
+
+# Language Reference
+
+CREATE DATABASE\
+CREATE TABLE\
+ALTER TABLE\
+INSERT\
+REPLACE\
+UPDATE\
+SELECT\
+DELETE\
+
+VALUES\
+SET\
+WHERE\
+IN\
+RLIKE / MATCH (search)\
+AND\
+OR\
+DISTINCT\
+MAX

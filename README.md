@@ -3,13 +3,13 @@ Language Reference for MySQL/MariaDB
 
 # Language Reference
 
+[SELECT](select.sql) - Selects specified data from a specified table or tables in the connected database.\
 CREATE DATABASE\
 CREATE TABLE\
 ALTER TABLE\
 INSERT\
 REPLACE\
 UPDATE\
-SELECT\
 DELETE
 
 VALUES\
